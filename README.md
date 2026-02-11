@@ -1,6 +1,6 @@
 # A Compact High-Gain Dual-Circularly Polarized Antenna Based on High-Order Mode Microstrip Patch
 
-This repository contains the simulation models for the antenna presented in our paper submitted to **IEEE Latin America Transactions**. The design utilizes high-order mode excitation combined with slot-loading techniques to achieve high gain within a compact footprint.
+This repository contains the simulation model for the antenna presented in our paper submitted to **IEEE Latin America Transactions**. The design utilizes high-order mode excitation combined with slot-loading techniques to achieve high gain within a compact footprint.
 
 ## 1. Overview
 This research introduces a high-gain dual-circularly polarized (CP) antenna that avoids the complexity and size of traditional array or Fabry-Perot structures. The design is based on the following principles:
