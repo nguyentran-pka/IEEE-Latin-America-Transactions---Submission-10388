@@ -26,7 +26,8 @@ Measured results from the fabricated prototype demonstrate:
 * **Front-to-Back Ratio:** Approximately $18$ dB
 
 ## 4. Repository Structure
-* `/HFSS_Models`: Contains the `.aedt` files for the patch antenna and the branch-line hybrid coupler.
+* `/HFSS_Models`: Contains the `.aedt` files for the proposed antenna, the branch-line hybrid coupler and other models used for comparison.
+* `/Simulation and measured data`: Data in `.csv` files used to reproduce the simulation and measured results of the paper. The data can be used to plot the graphs either by MS Excel or OriginPro.
 
 ## 5. Applications
 The proposed antenna is suitable for applications where long-range performance and orientation robustness are critical:
